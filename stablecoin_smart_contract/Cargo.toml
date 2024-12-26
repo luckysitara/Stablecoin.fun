@@ -12,3 +12,7 @@ solana-program-test = "1.18.26"
 [dev-dependencies]
 solana-program-test = "1.18.26"
 tokio = { version = "1", features = ["full"] }
+
+
+[lib]
+crate-type = ["cdylib"]  
