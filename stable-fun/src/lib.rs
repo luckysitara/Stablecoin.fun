@@ -9,7 +9,6 @@ use solana_program::{
     pubkey::Pubkey,
 };
 use instructions::{mint, burn, create_coin};
-use state::{stablecoin::Stablecoin, user_data::UserData};
 
 mod instructions;
 mod state;
