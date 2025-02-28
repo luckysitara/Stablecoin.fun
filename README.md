@@ -1,4 +1,17 @@
+# Thinking
 
+
+# Searching
+
+
+# Thinking
+
+
+# Responding
+
+
+
+Here's the properly formatted Markdown document for your project:
 
 ```md
 # Video Demo Preview  
@@ -96,12 +109,12 @@ The project consists of several key components:
 ```bash
 ├── src/                  # Frontend source code  
 │   ├── components/       # React components  
-│   ├── context/         # React context providers  
-│   ├── utils/           # Utility functions  
+│   ├── context/          # React context providers  
+│   ├── utils/            # Utility functions  
 │   └── ...  
-├── stablecoin-factory/  # Solana program  
-│   ├── programs/        # Smart contract code  
-│   ├── tests/          # Program tests  
+├── stablecoin-factory/   # Solana program  
+│   ├── programs/         # Smart contract code  
+│   ├── tests/            # Program tests  
 │   └── ...  
 ```  
 
@@ -134,4 +147,4 @@ This project is in beta. While we strive to ensure security, please use caution 
 - Switchboard Protocol  
 ```
 
-
+Feel free to copy and use this formatted Markdown for your documentation!
